@@ -47,7 +47,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Typography component="h2" variant="h2" >Registro de Usuario</Typography>
+        <Typography component="h2" variant="h2" >Registro de Usuarios</Typography>
         <Box my={2}>
           <Card>
             <CardContent>
